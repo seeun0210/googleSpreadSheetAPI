@@ -1,0 +1,26 @@
+{
+  "name": "googlespreadsheet",
+  "version": "1.0.0",
+  "description": "google spread sheet api test server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seeun0210/googleSpreadSheetAPI.git"
+  },
+  "keywords": [
+    "googleSpreadSheet"
+  ],
+  "author": "seeun0210",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seeun0210/googleSpreadSheetAPI/issues"
+  },
+  "homepage": "https://github.com/seeun0210/googleSpreadSheetAPI#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
